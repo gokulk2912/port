@@ -1,2 +1,2 @@
-# Heroku-Portfolio
-Deploying Portfolio on Heroku
+# portfolio
+Personal Portfolio
